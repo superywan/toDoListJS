@@ -2,5 +2,5 @@
 ---
 ## Demo
 
-![Todo List JS Demo](demo/demo.gif)
+![Todo List JS Demo](demo/demotodo.gif)
 
